@@ -1,5 +1,5 @@
 <?php 
-nmespace Cota\Hello;
+namespace Cota\Hello;
 class Hello
 {
     public function sayHello()
