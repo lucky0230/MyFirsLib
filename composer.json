@@ -1,0 +1,13 @@
+{
+    "name": "cota/hello_again",
+    "description": "hello from cota.",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Cota\\Hello\\": "src"
+        }
+    }
+}
